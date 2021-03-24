@@ -1,2 +1,0 @@
-{'args': {}, 'data': '{"test": "testing"}', 'files': {}, 'form': {}, 'headers': {'Accept': '*/*', 'Accept-Encoding': 'gzip, deflate', 'Authorization': 'Bearer', 'Content-Length': '19', 'Content-Type': 'application/json', 'Host': 'httpbin.org', 'User-Agent': 'python-requests/2.25.1', 'X-Amzn-Trace-Id': 'Root=1-605b672a-5bebef8f3518134d5d3b0464'}, 'json': {'test': 'testing'}, 'origin': '176.193.38.100', 'url': 'https://httpbin.org/patch'}
-0.489383
